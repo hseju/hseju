@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to Hardik Seju's DataHouse 👋
 
 <!--
 **hseju/hseju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Maiandra+GD&color=%23F7962C&center=true&vCenter=true&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
