@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%23F7962C&center=true&vCenter=true&width=900&lines=Data+Scientist;Data+Analyst)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%233EB36C&size=30&center=true&vCenter=true&width=900&lines=Data+Scientist;Data+Analyst)](https://git.io/typing-svg)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hseju&theme=vue-dark&center=true)](https://git.io/streak-stats)
