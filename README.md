@@ -3,17 +3,45 @@
 <!--
 **hseju/hseju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Quicksand&color=%233EB36C&size=30&center=true&vCenter=true&width=900&lines=Data+Scientist;Data+Analyst)](https://git.io/typing-svg)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hseju&theme=vue-dark&center=true)](https://git.io/streak-stats)
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hseju&show_icons=true&theme=vue-dark&locale=en&layout=compact" alt="hseju" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hseju&theme=vue-dark&show_icons=true&locale=en" alt="hseju" /></p>
+
+<h3 align="center" font="Quicksand">Passionate about Machine Learning, Data Science, AI</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hseju&label=Profile%20views&color=0e75b6&style=flat" alt="hseju" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> </p>
+ <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=hseju" alt="hseju" /></a> </p>
+
+- 🔭 I’m currently working on **Used Car prediction**
+
+- 🌱 I’m currently learning **Machine learning, Data Analysis, Data visualization**
+
+- 👯 I’m looking to collaborate on **Data Science Projects**
+
+- 💬 Ask me about **Data Science, Machine Learning**
+
+- 📫 How to reach me **hardik321seju@gmail.com**
+
+- ⚡ Fun fact **I saw a worm hole of Data Science and I was fetched into it!**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/hardik-seju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hardik-seju" height="30" width="40" /></a> 
+<a href="https://www.hackerrank.com/hardik seju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hardik seju" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+
+
+
