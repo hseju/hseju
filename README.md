@@ -9,22 +9,12 @@
 
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=hseju&theme=vue-dark&show_icons=true&locale=en" alt="hseju" />
-&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=hseju&theme=vue-dark&show_icons=true&locale=en" alt="hseju" /> </p>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=hseju&theme=vue-dark&show_icons=true&locale=en" alt="hseju" /> </p>
   
-
+<br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hseju&show_icons=true&theme=vue-dark&locale=en&layout=compact" alt="hseju" /></p>
 
 
-<p>
-  
-  
-  
-  
-</p>
-## My Wakatime Stats ⌚
-<a href="https://github.com/hseju/github-readme-stats">
-  <img align="center" src="@hseju&compact=True">https://github-readme-stats.vercel.app/api/wakatime?username=@hseju&compact=True"/>
-</a>
 
 <h3 align="center" font="Quicksand">Passionate about Machine Learning, Data Science, AI</h3>
 
