@@ -33,9 +33,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> </p>
  <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=hseju" alt="hseju" /></a> </p>
 
-- 🔭 I’m currently working on **Used Car prediction**
+- 🔭 I’m currently working on **OMDENA Challenges** - AI solutions for Regenerative Farming and Hate speech detetction in Tamil language
 
-- 🌱 I’m currently learning **Machine learning, Data Analysis, Data visualization**
+- 🌱 I’m currently learning **NLP, deep learning and Data visualization tools**
 
 - 👯 I’m looking to collaborate on **Data Science Projects**
 
