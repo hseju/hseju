@@ -8,7 +8,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Quicksand&color=%233EB36C&size=30&center=true&vCenter=true&width=900&lines=Data+Scientist;Data+Analyst)](https://git.io/typing-svg)
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=hseju&theme=vue-dark&show_icons=true&locale=en" alt="hseju" />
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=hseju&theme=vue-dark&show_icons=true&locale=en" alt="hseju" />
 &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=hseju&theme=vue-dark&show_icons=true&locale=en" alt="hseju" /> </p>
   
 
