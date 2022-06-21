@@ -4,6 +4,21 @@
 **hseju/hseju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
+### A typical top-level directory layout
+
+    .
+    ├── build                   # Compiled files (alternatively `dist`)
+    ├── docs                    # Documentation files (alternatively `doc`)
+    ├── src                     # Source files (alternatively `lib` or `app`)
+    ├── test                    # Automated tests (alternatively `spec` or `tests`)
+    ├── tools                   # Tools and utilities
+    ├── LICENSE
+    └── README.md
+
+
+
+
+
 -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Quicksand&color=%233EB36C&size=30&center=true&vCenter=true&width=900&lines=Data+Scientist;Data+Analyst)](https://git.io/typing-svg)
 
