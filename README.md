@@ -1,5 +1,6 @@
                                                                  Hello 👋
-
+                                                                 
+<h3 align="center" font="Quicksand">Passionate about Machine Learning, Data Science, AI</h3>
 
 
 
@@ -8,11 +9,33 @@
 
     .
     ├── Repositories                   
-       ├── Projects                   
-       ├── Articles               
-       ├── Certifications                 
-       ├── Learning                 
+       ├── Projects
+          ├──
+          ├──
+          ├──
+          ├──
+          
+       ├── Articles
+          ├──
+          ├──
+          ├──
+          
+       ├── Certifications
+          ├──
+          ├──
+          ├──
+          ├──
+          
+       ├── Collaborations
+          ├──
+          ├──
+          ├──
+          
        ├── Playground
+          ├──
+          ├──
+          ├──
+          
        └── README.md
     
     
@@ -31,25 +54,11 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hseju&show_icons=true&theme=vue-dark&locale=en&layout=compact" alt="hseju" /></p>
 
 
-
-<h3 align="center" font="Quicksand">Passionate about Machine Learning, Data Science, AI</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hseju&label=Profile%20views&color=0e75b6&style=flat" alt="hseju" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> </p>
  <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=hseju" alt="hseju" /></a> </p>
 
-- 🔭 I’m currently working on **OMDENA Challenges** - AI solutions for Regenerative Farming and Hate speech detetction in Tamil language
-
-- 🌱 I’m currently learning **NLP, deep learning and Data visualization tools**
-
-- 👯 I’m looking to collaborate on **Data Science Projects**
-
-- 💬 Ask me about **Data Science, Machine Learning**
-
-- 📫 How to reach me **hardik321seju@gmail.com**
-
-- ⚡ Fun fact **I saw a worm hole of Data Science and I was fetched into it!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
