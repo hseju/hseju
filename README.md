@@ -1,43 +1,36 @@
-                                                                 Hello 👋
-                                                                 
-<h3 align="center" font="Quicksand">Passionate about Machine Learning, Data Science, AI</h3>
+                                                                Hello 👋 
+                                       I am Hardik Seju and welcome to my newly build Data Science Dojo! 
+                                       
+                                       
+<h1 align="center" font="GeoSansLight">All You Need Is An Inspiration</h1>                 
+<h4 align="center" font="Quicksand">Passionate about Machine Learning, Data Science, AI</h4>
 
-
-
-### A typical top-level directory layout
-
-    .
-    ┣━━ Repositories                   
-       ┣━━ Projects
-       ┃  ├──
-       ┃  ├──
-       ┃  ├──
-       ┃  ├──
-       ┃  
-       ┣━━ Articles
-       ┃  ├──
-       ┃  ├──
-       ┃  ├──
-       ┃  
-       ┣━━ Educations/Certifications
-       ┃  ├──
-       ┃  ├──
-       ┃  ├──
-       ┃  ├──
-       ┃  
-       ┣━━ Collaborations
-       ┃  ├──
-       ┃  ├──
-       ┃  ├──
-       ┃  
-       ┣━━ Playground
-       ┃  ├──
-       ┃  ├──
-       ┃  ├──
-       ┃  
-       ┗━━ README.md
-    
-    
+## Repositories structure
+<pre style="font-family:GeoSansLight,'DejaVu Sans Mono',consolas,'Courier New',monospace">📁                                                                         
+<span style="color: #808080; text-decoration-color: #808080; font-weight:bold">┣━━ Projects 📬</span><span style="font-weight: bold">
+<span style="color: #808080; text-decoration-color: #808080">┃   ├── </span><span style="font-weight: bold"><a href="https://github.com/hseju/Building-Regenerative-Farming-Solutions-Enabling-Carbon-Credits">Building Regenerative Farming Solutions Enabling Carbon Credits</a>
+<span style="color: #808080; text-decoration-color: #808080">┃   ├── </span><span style="font-weight: bold"><a href=" ">  </a>
+<span style="color: #808080; text-decoration-color: #808080">┃   ├── </span><span style="font-weight: bold"><a href=" ">  </a>
+<span style="color: #808080; text-decoration-color: #808080">┃   ├── </span><span style="font-weight: bold"><a href=" ">  </a>
+<span style="color: #808080; text-decoration-color: #808080">┣━━ Articles 📰</span><span style="font-weight: bold">
+<span style="color: #808080; text-decoration-color: #808080">┃   ├── </span><span style="font-weight: bold"><a href=" ">  </a>
+<span style="color: #808080; text-decoration-color: #808080">┃   ├── </span><span style="font-weight: bold"><a href=" ">  </a>
+<span style="color: #808080; text-decoration-color: #808080">┃   ├── </span><span style="font-weight: bold"><a href=" ">  </a>
+<span style="color: #808080; text-decoration-color: #808080">┣━━ Educations/Certifications 📖</span><span style="font-weight: bold">
+<span style="color: #808080; text-decoration-color: #808080">┃   ├── </span><span style="font-weight: bold"><a href="https://github.com/hseju/Stanford-Introduction-to-Statistics">Stanford-Introduction-to-Statistics</a>
+<span style="color: #808080; text-decoration-color: #808080">┃   ├── </span><span style="font-weight: bold"><a href="https://github.com/hseju/IBM-Data-Science-Specialization">IBM Data Science Specialization</a>
+<span style="color: #808080; text-decoration-color: #808080">┃   ├── </span><span style="font-weight: bold"><a href=" ">  </a>
+<span style="color: #808080; text-decoration-color: #808080">┃   ├── </span><span style="font-weight: bold"><a href=" ">  </a>
+<span style="color: #808080; text-decoration-color: #808080">┣━━ Collaborations 🎨</span><span style="font-weight: bold">
+<span style="color: #808080; text-decoration-color: #808080">┃   ├── </span><span style="font-weight: bold"><a href=" ">  </a>
+<span style="color: #808080; text-decoration-color: #808080">┃   ├── </span><span style="font-weight: bold"><a href=" ">  </a>
+<span style="color: #808080; text-decoration-color: #808080">┃   ├── </span><span style="font-weight: bold"><a href=" ">  </a>
+<span style="color: #808080; text-decoration-color: #808080">┣━━ Playground 🎮</span><span style="font-weight: bold">
+<span style="color: #808080; text-decoration-color: #808080">┃   ├── </span><span style="font-weight: bold"><a href=" ">  </a>
+<span style="color: #808080; text-decoration-color: #808080">┃   ├── </span><span style="font-weight: bold"><a href=" ">  </a>
+<span style="color: #808080; text-decoration-color: #808080">┃   ├── </span><span style="font-weight: bold"><a href=" ">  </a>
+<span style="color: #808080; text-decoration-color: #808080">┗━━ README.md</span><span style="font-weight: bold">
+     
 <!--
 **hseju/hseju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
