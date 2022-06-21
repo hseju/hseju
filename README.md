@@ -4,39 +4,38 @@
 
 
 
-
 ### A typical top-level directory layout
 
     .
-    ├── Repositories                   
-       ├── Projects
-          ├──
-          ├──
-          ├──
-          ├──
-          
-       ├── Articles
-          ├──
-          ├──
-          ├──
-          
-       ├── Certifications
-          ├──
-          ├──
-          ├──
-          ├──
-          
-       ├── Collaborations
-          ├──
-          ├──
-          ├──
-          
-       ├── Playground
-          ├──
-          ├──
-          ├──
-          
-       └── README.md
+    ┣━━ Repositories                   
+       ┣━━ Projects
+       ┃  ├──
+       ┃  ├──
+       ┃  ├──
+       ┃  ├──
+       ┃  
+       ┣━━ Articles
+       ┃  ├──
+       ┃  ├──
+       ┃  ├──
+       ┃  
+       ┣━━ Educations/Certifications
+       ┃  ├──
+       ┃  ├──
+       ┃  ├──
+       ┃  ├──
+       ┃  
+       ┣━━ Collaborations
+       ┃  ├──
+       ┃  ├──
+       ┃  ├──
+       ┃  
+       ┣━━ Playground
+       ┃  ├──
+       ┃  ├──
+       ┃  ├──
+       ┃  
+       ┗━━ README.md
     
     
 <!--
