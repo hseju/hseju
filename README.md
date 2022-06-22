@@ -36,20 +36,17 @@
 -->
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Quicksand&color=%233EB36C&size=30&center=true&vCenter=true&width=900&lines=Data+Scientist;Data+Analyst)](https://git.io/typing-svg)
 
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=hseju&theme=vue-dark&show_icons=true&locale=en" alt="hseju" />
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=hseju&theme=vue-dark&show_icons=true&locale=en" alt="hseju" /> </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hseju&theme=vue-dark&show_icons=true&locale=en" alt="hseju" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=hseju&theme=vue-dark&show_icons=true&locale=en" alt="hseju" /> </p>
   
-<br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hseju&show_icons=true&theme=vue-dark&locale=en&layout=compact" alt="hseju" /></p>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hseju&label=Profile%20views&color=0e75b6&style=flat" alt="hseju" /> </p>
+<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hseju&label=Profile%20views&color=0e75b6&style=flat" alt="hseju" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> </p>
- <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=hseju" alt="hseju" /></a> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=hseju" alt="hseju" /></a> </p>
 
 
 <h3 align="left">Connect with me:</h3>
