@@ -19,7 +19,7 @@
 <span style="color: #808080; text-decoration-color: #808080">┣━━ Educations/Certifications 📖</span><span style="font-weight: bold">
 <span style="color: #808080; text-decoration-color: #808080">┃   ├── </span><span style="font-weight: bold"><a href="https://github.com/hseju/Stanford-Introduction-to-Statistics">Stanford-Introduction-to-Statistics</a>
 <span style="color: #808080; text-decoration-color: #808080">┃   ├── </span><span style="font-weight: bold"><a href="https://github.com/hseju/IBM-Data-Science-Specialization">IBM Data Science Specialization</a>
-<span style="color: #808080; text-decoration-color: #808080">┃   ├── </span><span style="font-weight: bold"><a href=" ">  </a>
+<span style="color: #808080; text-decoration-color: #808080">┃   ├── </span><span style="font-weight: bold"><a href="https://github.com/hseju/Deep-Learning-Specialization">Deep Learning Specialization by DeepLearning.AI</a>
 <span style="color: #808080; text-decoration-color: #808080">┃   ├── </span><span style="font-weight: bold"><a href=" ">  </a>
 <span style="color: #808080; text-decoration-color: #808080">┣━━ Collaborations 🎨</span><span style="font-weight: bold">
 <span style="color: #808080; text-decoration-color: #808080">┃   ├── </span><span style="font-weight: bold"><a href=" ">  </a>
