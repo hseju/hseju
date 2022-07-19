@@ -12,21 +12,15 @@
 <span style="color: #808080; text-decoration-color: #808080">┃   ├── </span><span style="font-weight: bold"><a href="https://github.com/hseju/Finding-Countries-in-Need-of-Financial-Aid">Clustering Problem- Finding countires in need of Financial Aid</a>
 <span style="color: #808080; text-decoration-color: #808080">┃   ├── </span><span style="font-weight: bold"><a href=" ">  </a>
 <span style="color: #808080; text-decoration-color: #808080">┃   ├── </span><span style="font-weight: bold"><a href=" ">  </a>
-
-
 <span style="color: #808080; text-decoration-color: #808080">┣━━ Articles 📰</span><span style="font-weight: bold">
 <span style="color: #808080; text-decoration-color: #808080">┃   ├── </span><span style="font-weight: bold"><a href="https://omdena.com/blog/healthcare-chatbot/">Need of a Healthcare Chatbot</a>
 <span style="color: #808080; text-decoration-color: #808080">┃   ├── </span><span style="font-weight: bold"><a href=" ">  </a>
 <span style="color: #808080; text-decoration-color: #808080">┃   ├── </span><span style="font-weight: bold"><a href=" ">  </a>
-
-
 <span style="color: #808080; text-decoration-color: #808080">┣━━ Educations/Certifications 📖</span><span style="font-weight: bold">
 <span style="color: #808080; text-decoration-color: #808080">┃   ├── </span><span style="font-weight: bold"><a href="https://github.com/hseju/Stanford-Introduction-to-Statistics">Stanford-Introduction-to-Statistics</a>
 <span style="color: #808080; text-decoration-color: #808080">┃   ├── </span><span style="font-weight: bold"><a href="https://github.com/hseju/IBM-Data-Science-Specialization">IBM Data Science Specialization</a>
 <span style="color: #808080; text-decoration-color: #808080">┃   ├── </span><span style="font-weight: bold"><a href="https://github.com/hseju/Deep-Learning-Specialization">Deep Learning Specialization by DeepLearning.AI</a>
 <span style="color: #808080; text-decoration-color: #808080">┃   ├── </span><span style="font-weight: bold"><a href=" ">Machine Learning Specialization  </a>
-
-
 <span style="color: #808080; text-decoration-color: #808080">┣━━ Collaborations 🎨</span><span style="font-weight: bold">
 <span style="color: #808080; text-decoration-color: #808080">┃   ├── </span><span style="font-weight: bold"><a href=" ">  </a>
 <span style="color: #808080; text-decoration-color: #808080">┃   ├── </span><span style="font-weight: bold"><a href=" ">  </a>
