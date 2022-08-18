@@ -10,7 +10,7 @@
 <span style="color: #808080; text-decoration-color: #808080; font-weight:bold">┣━━ Projects 📬</span><span style="font-weight: bold">
 <span style="color: #808080; text-decoration-color: #808080">┃   ├── </span><span style="font-weight: bold"><a href="https://github.com/hseju/Building-Regenerative-Farming-Solutions-Enabling-Carbon-Credits">Building Regenerative Farming Solutions Enabling Carbon Credits</a>
 <span style="color: #808080; text-decoration-color: #808080">┃   ├── </span><span style="font-weight: bold"><a href="https://github.com/hseju/Finding-Countries-in-Need-of-Financial-Aid">Clustering Problem- Finding countires in need of Financial Aid</a>
-<span style="color: #808080; text-decoration-color: #808080">┃   ├── </span><span style="font-weight: bold"><a href=" ">  </a>
+<span style="color: #808080; text-decoration-color: #808080">┃   ├── </span><span style="font-weight: bold"><a href="https://github.com/hseju/HealthBot">Conversational AI Healthcare chatbot</a>
 <span style="color: #808080; text-decoration-color: #808080">┃   ├── </span><span style="font-weight: bold"><a href=" ">  </a>
 <span style="color: #808080; text-decoration-color: #808080">┣━━ Articles 📰</span><span style="font-weight: bold">
 <span style="color: #808080; text-decoration-color: #808080">┃   ├── </span><span style="font-weight: bold"><a href="https://omdena.com/blog/healthcare-chatbot/">Need of a Healthcare Chatbot</a>
