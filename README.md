@@ -3,7 +3,7 @@
                                        
                                        
 <h1 align="center" font="GeoSansLight">All You Need Is An Inspiration</h1>                 
-<h4 align="center" font="Quicksand">Passionate about Machine Learning, Data Science, AI</h4>
+<h4 align="center" font="Quicksand">Passionate about Solving Problems through Data Analytics, Data Science and Machine Lerning AI</h4>
 
 ## Repositories structure
 <pre style="font-family:GeoSansLight,'DejaVu Sans Mono',consolas,'Courier New',monospace">📁                                                                         
