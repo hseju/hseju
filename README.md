@@ -8,6 +8,7 @@
 ## Repositories structure
 <pre style="font-family:GeoSansLight,'DejaVu Sans Mono',consolas,'Courier New',monospace">📁                                                                         
 <span style="color: #808080; text-decoration-color: #808080; font-weight:bold">┣━━ Projects 📬</span><span style="font-weight: bold">
+<span style="color: #808080; text-decoration-color: #808080">┃   ├── </span><span style="font-weight: bold"><a href="[https://github.com/hseju/HealthBot](https://github.com/hseju/ATLIQO-Telecom-Data-Analysis)">Telco 5G Launch Impact Data Analysis</a>
 <span style="color: #808080; text-decoration-color: #808080">┃   ├── </span><span style="font-weight: bold"><a href="https://github.com/hseju/Finding-Countries-in-Need-of-Financial-Aid">Clustering Problem- Finding countires in need of Financial Aid</a>
 <span style="color: #808080; text-decoration-color: #808080">┃   ├── </span><span style="font-weight: bold"><a href="https://github.com/hseju/HealthBot">Conversational AI Healthcare chatbot</a>
 <span style="color: #808080; text-decoration-color: #808080">┃   ├── </span><span style="font-weight: bold"><a href="https://github.com/hseju/British-Airways-Good-or-Bad">British Airways - Good or Bad? A Customer insights and predictive modeling using Data Science </a>
