@@ -1,5 +1,5 @@
                                                                 Hello 👋 
-                                       I am Hardik Seju and welcome to my newly build Data Science Dojo! 
+                                       I am Hardik Seju and welcome to my newly build Data Analyst Dojo! 
                                        
                                        
 <h1 align="center" font="GeoSansLight">All You Need Is An Inspiration</h1>                 
